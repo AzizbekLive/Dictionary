@@ -67,6 +67,9 @@ I created this app as part of my learning process to solidify my Android develop
 
 # Disclaimer:
 
-Please note that this app was developed for educational purposes during my time at GITA Academy, and its primary goal was to enhance my skills as a developer. It may not be actively maintained or updated.
+This app was developed for educational purposes during my time at GITA Academy, and its primary goal was to enhance my skills as a developer. It may not be actively maintained or updated.
 
 Feel free to explore the codebase and use it as a reference for your own Android app development projects.
+
+# Support
+If you have any questions or need assistance, please feel free to [contact us](https://t.me/azizlive).
